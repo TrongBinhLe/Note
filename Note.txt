@@ -1,0 +1,20 @@
+                    Setup Eslint : 
+--------------------------------------------------
+npm install --save-dev eslint-config-rallycoding
+Create .eslintrc and add {extend : "eslint-config-rallycoding"}
+-----------------------------------------------------
+                    Setup fire database:
+npm install --save firebase
+......................................................
+                    Git  
+
+Kiem tra Branch : git branch;
+Kiem tra commit mới nhất của mỗi nhánh. Git branch -v;
+Kiem tra các nhánh có dc merged . git branh --merged;
+Kiem tra các nhánh chưa merged : git branch --no-merged;
+Delete môt nhánh đã dc merged : git branch -d 'branch';
+Delete một nhánh chưa dc merged : git branch -D 'branch';
+Xem status cua git : git status;
+Tạo mới một nhánh : git branch 'namebranch';
+Thay đổi nhánh làm việc: git checkout branch;
+Kiểm tra Head làm việc : 
