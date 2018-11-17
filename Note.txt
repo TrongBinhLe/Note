@@ -17,4 +17,4 @@ Delete một nhánh chưa dc merged : git branch -D 'branch';
 Xem status cua git : git status;
 Tạo mới một nhánh : git branch 'namebranch';
 Thay đổi nhánh làm việc: git checkout branch;
-Kiểm tra Head làm việc : 
+Push len origin master : git push origin master;
