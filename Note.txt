@@ -6,6 +6,10 @@ Create .eslintrc and add {extend : "eslint-config-rallycoding"}
                     Setup fire database:
 npm install --save firebase
 ......................................................
+                    Setup Redux.
+npm install --save redux react-redux
+yarn add --save redux react-redux
+.........................................................
                     Git  
 
 Kiem tra Branch : git branch;
@@ -30,3 +34,4 @@ Pull về đồng bộ với local repository: git pull origin master.
 
 -----------------------------------------------------------------------------------
 
+            
