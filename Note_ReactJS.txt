@@ -1,0 +1,7 @@
+
+------------------------- Local and Session storage -----------------------
+
+Local storage  Tương tự Cookies lưu ở trình duyet. 5MB. Mat khi xóa lịch sử.
+Session storage ---------------------------------------. Mất khi đóng trình duyệt.
+Các phương thức chính. _setItem('key',value); _getItem('key');_removeItem('key',value);
+

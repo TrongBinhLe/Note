@@ -1,0 +1,8 @@
+const reducer = ()=> []
+const store = Redux.createStore(reducer);
+
+store.getState();
+
+const action = {
+	type : 'split_string',
+	payload: 'sdfsf'}
