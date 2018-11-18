@@ -21,10 +21,12 @@ Thay đổi nhánh làm việc: git checkout branch;
 Tạo vào trỏ tới nhánh vừa tao : git checkout -b <branch>
 
 Push len origin master : git push origin master;
-Tao 1 folder ở git : mkmir 'ten folder';
+Tao 1 folder ở git : mkmir 'ten folder'; 
 
 Tao 1 git cho folder : git init;
 Lien kết git với remote repo tao tren server : git remote add origin <link remote cua repo mới tạo>
 
-Pull về đồng bộ với local repository: git pull origin master.
+Pull về đồng bộ với local repository: git pull origin master. 
+
+-----------------------------------------------------------------------------------
 
