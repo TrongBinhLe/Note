@@ -1,8 +1,14 @@
 npm i -g create-react-native-app
 
 .........................................................................................
-                    Setup fire database:
-npm install --save firebase.
+                Setup fire database:
+npm install --save firebase
+
+..........................................................................................
+                Setup CLI firebase anh How to use !!!! 
+
 Cai dat firebase-tools : npm install -g firebase-tools.
+Xem cac lenh su dung firebase : firebase
+Login firebase to use CLI command : firebase login.
 
 ..........................................................................................
